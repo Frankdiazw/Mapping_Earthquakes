@@ -12,5 +12,11 @@ Using the knowledge adquired of JavaScript, Leaflet.js, and geoJSON data, the te
 - ### Major Earthquake Data
 Using the knowledge adquired of JavaScript, Leaflet.js, and geoJSON data, the major earthquake data was added to the map using d3.json(). Then color was added and the radius of the circle markers were set based on the magnitude of earthquake, and a popup marker was added for each earthquake that displays the magnitude and location of the earthquake using the GeoJSON layer, geoJSON(). The result can be observed in the following figure:
 
-![](https://github.com/Frankdiazw/Mapping_Earthquakes/blob/main/static/images/Deliverable%201.png)
+![](https://github.com/Frankdiazw/Mapping_Earthquakes/blob/main/static/images/Deliverable%202.png)
+- Figure 2. Earthquake map with the Data.
 
+- ### Additional Map
+Using the knowledge of JavaScript and Leaflet.js a third map style was added to the earthquake map.
+
+![](https://github.com/Frankdiazw/Mapping_Earthquakes/blob/main/static/images/Deliverable%203.png)
+- Figure 3. Earthquake map with the Mapbox styles API.
